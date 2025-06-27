@@ -10,6 +10,6 @@ A small web app that fetches and displays dog images using the [Dog CEO API](htt
 ## 📦 Tech Stack
 - HTML
 - CSS
-- JavaScript (Vanilla)
+- JavaScript 
 - Public API: [https://dog.ceo/api](https://dog.ceo/dog-api/)
 
